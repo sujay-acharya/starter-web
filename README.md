@@ -8,6 +8,7 @@ As stated above, the main purpose is to provide simple examples for Git training
 Thi is a simple web project, deployment can be any webserver
 ## How to contribute
 Please fork this repository
+adding a line for rebasing
 
 ###COPYRIGHT
 copyright infrigment

@@ -7,6 +7,7 @@ As stated above, the main purpose is to provide simple examples for Git training
 ## Deployment
 Thi is a simple web project, deployment can be any webserver
 ## How to contribute
+Please fork this repository
 
 ###COPYRIGHT
 copyright infrigment

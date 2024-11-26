@@ -11,4 +11,4 @@ Please fork this repository
 adding a line for rebasing
 
 ###COPYRIGHT
-copyright infrigment
+copyright infrigment. All right reserverd
